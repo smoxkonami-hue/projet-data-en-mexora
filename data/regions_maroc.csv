@@ -1,0 +1,5 @@
+code_ville,nom_ville_standard,province,region_admin,zone_geo,population,code_postal
+TNG,Tanger,Tanger-Assilah,Tanger-Tétouan-Al Hoceima,Nord,1200000,90000
+CAS,Casablanca,Casablanca,Casablanca-Settat,Centre,3500000,20000
+RBA,Rabat,Rabat,Rabat-Salé-Kénitra,Centre-Nord,600000,10000
+AGA,Agadir,Agadir-Ida-Ou-Tanane,Souss-Massa,Sud,450000,80000
