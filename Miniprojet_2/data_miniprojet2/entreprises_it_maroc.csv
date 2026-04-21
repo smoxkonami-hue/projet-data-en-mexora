@@ -1,0 +1,11 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+TechMaroc SARL,Informatique / Télécom,PME,Casablanca,techmaroc.ma,SSII
+DataCorp,Informatique / Télécom,Startup,Tanger,datacorp.ma,Produit
+BankAl,Banque,Grande Entreprise,Casablanca,bankal.ma,Banque
+DevAgency,Informatique / Télécom,PME,Rabat,devagency.ma,SSII
+TelecomSA,Telecom,Grande Entreprise,Rabat,telecomsa.ma,Telecom
+SysAdminMaroc,Conseil,ETI,Casablanca,sysadmin.ma,Conseil
+InnoSoft,Informatique / Télécom,Startup,Marrakech,innosoft.ma,Produit
+WebSolutions,Informatique / Télécom,PME,Tanger,websolutions.ma,SSII
+FinTechOps,Banque,Startup,Casablanca,fintechops.ma,Produit
+CloudNet,Informatique / Télécom,ETI,Fès,cloudnet.ma,SSII
